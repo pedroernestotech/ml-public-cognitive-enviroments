@@ -43,7 +43,6 @@ O aplicativo Streamlit permite aos usuários fazer upload de arquivos Excel cont
 
 Para executar o notebook e o aplicativo localmente, é necessário instalar as seguintes dependências:
 
-```plaintext
 streamlit==1.8.0
 pandas==1.4.2
 scikit-learn==1.0.2
