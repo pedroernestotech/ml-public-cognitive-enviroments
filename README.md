@@ -41,13 +41,13 @@ O aplicativo Streamlit permite aos usuários fazer upload de arquivos Excel cont
 
 ### Requisitos
 
-Para executar o notebook e o aplicativo localmente, é necessário instalar as seguintes dependências:
+Para executar o notebook e o aplicativo localmente, é necessário instalar as seguintes dependências:<br>
 
-streamlit==1.8.0
-pandas==1.4.2
-scikit-learn==1.0.2
-openpyxl==3.0.9
-numpy==1.22.3 ```
+streamlit==1.8.0<br>
+pandas==1.4.2<br>
+scikit-learn==1.0.2<br>
+openpyxl==3.0.9<br>
+numpy==1.22.3
 
 ### Executado Streamlit
 
