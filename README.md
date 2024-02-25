@@ -49,3 +49,7 @@ pandas==1.4.2
 scikit-learn==1.0.2
 openpyxl==3.0.9
 numpy==1.22.3
+
+### Executado Streamlit
+
+![Strimilit_Classificacao.png](url da imagem gerado pelo serviço de hospedagem ou GitHub)
