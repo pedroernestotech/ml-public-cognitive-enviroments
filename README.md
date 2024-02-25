@@ -51,4 +51,4 @@ numpy==1.22.3
 
 ### Executado Streamlit
 
-![Strimilit_Classificacao.png](https://github.com/pedroernestotech/ml-public-cognitive-enviroments/blob/main/Strimilit_Classificacao.png)https://github.com/pedroernestotech/ml-public-cognitive-enviroments/blob/main/Strimilit_Classificacao.png)
+![Strimilit_Classificacao.png](https://github.com/pedroernestotech/ml-public-cognitive-enviroments/blob/main/Strimilit_Classificacao.png)
